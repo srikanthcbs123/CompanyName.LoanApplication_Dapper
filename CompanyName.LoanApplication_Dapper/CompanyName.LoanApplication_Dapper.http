@@ -1,0 +1,6 @@
+@CompanyName.LoanApplication_Dapper_HostAddress = http://localhost:5188
+
+GET {{CompanyName.LoanApplication_Dapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
