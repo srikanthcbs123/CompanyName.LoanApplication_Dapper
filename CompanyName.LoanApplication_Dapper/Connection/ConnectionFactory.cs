@@ -38,6 +38,7 @@ namespace CompanyName.LoanApplication_Dapper.Connection
             IDbConnection con = new SqlConnection(connStr);
             return con;
         }
+
     }
 }
     
